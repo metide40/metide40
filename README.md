@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Hi,%20I'm%20Meti!&fontSize=34&fontColor=FFFFFF&fontAlign=50&fontAlignY=50" alt="Hi, I'm Meti!" />
 </p>
@@ -62,4 +61,12 @@
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metide40&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=12" alt="Most used languages" />
   &nbsp;&nbsp;
   <img height="175" src="https://streak-stats.demolab.com/?user=metide40&background=0d1117&border=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&border_radius=12" alt="GitHub streak" />
+</p>
+
+<br />
+
+<p align="center">
+  <i>"The only way to do great work is to love what you do."</i>
+  <br />
+  <sub>- Steve Jobs</sub>
 </p>
