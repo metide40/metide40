@@ -57,19 +57,8 @@
 
 <br />
 
-<h2 align="center">📊 Statistics</h2>
-
-<table align="center">
-  <tr>
-    <th align="center">Most used languages</th>
-    <th align="center">Streaks</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metide40&layout=compact&langs_count=10&theme=tokyonight&bg_color=0d1117" alt="Most used languages" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=metide40&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metide40&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=12" alt="Most used languages" />
+  &nbsp;&nbsp;
+  <img height="175" src="https://streak-stats.demolab.com/?user=metide40&background=0d1117&border=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&border_radius=12" alt="GitHub streak" />
+</p>
