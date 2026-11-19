@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=60&duration=3000&lines=Hi,+I'm+Meti!" alt="Hi, I'm Meti!" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Hi,%20I'm%20Meti!&fontSize=34&fontColor=FFFFFF&fontAlign=50&fontAlignY=50" alt="Hi, I'm Meti!" />
 </p>
 
 <p align="center">
@@ -57,6 +57,19 @@
 
 <br />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=metide40&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="95%" />
-</p>
+<h2 align="center">📊 Statistics</h2>
+
+<table align="center">
+  <tr>
+    <th align="center">Most used languages</th>
+    <th align="center">Streaks</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metide40&layout=compact&langs_count=10&theme=tokyonight&bg_color=0d1117" alt="Most used languages" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=metide40&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub streak" />
+    </td>
+  </tr>
+</table>
